@@ -1,6 +1,6 @@
 Vue.component('login', {
     template: `
-    <div>
+    <div class=" container d-flex justify-content-center">
         
         <form action="">
         <div class="form-group">
