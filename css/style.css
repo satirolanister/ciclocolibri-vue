@@ -11,13 +11,13 @@
     overflow: scroll;
 }
 
+.logo{
+    width: 40%;
+}
+
 .login {
-  background-color: black; 
-  max-width: 300px;
-  margin-right: 0px;
-  margin-top: -25px;
   
+  max-width: 400px;
 }
-.top {
-  margin-bottom: 341px;
-}
+
+
