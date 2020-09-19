@@ -10,7 +10,7 @@ Vue.component('menulateral', {
                                 Menu
                             </a>
                         </li>
-                        <br>
+                        
                         <li>
                             <router-link to="/">
                                 ventas
