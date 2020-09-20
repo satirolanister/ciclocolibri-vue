@@ -12,7 +12,7 @@ Vue.component('login', {
         <label for="pwd" >Password:</label>
         <input type="password" class="form-control" id="pwd">
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" class="btn btn-primary btn-lg btn-block">Submit</button>
         </form>
 
     </div>
